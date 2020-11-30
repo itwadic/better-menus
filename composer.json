@@ -1,5 +1,5 @@
 {
-	"name": "better-menus",
+	"name": "itwadic/better-menus",
 	"description": "Plugin saves WordPress Menu data in custom database tables for more performant queries.",
 	"type": "wordpress-plugin",
 	"keywords": [],
